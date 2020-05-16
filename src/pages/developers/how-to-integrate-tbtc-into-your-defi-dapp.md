@@ -5,7 +5,7 @@ title: 'Developers: How to Integrate tBTC into your DeFi dApp'
 heading: 'Developer Toolkit: How to Integrate tBTC into your DeFi dApp'
 description: >-
   Developers can integrate tBTC into dApps using publicly available resources
-  and libraries. Any app that uses an ERC-20 token can integrate TBTC. This
+  and libraries. Any app that uses an ERC-20 token can integrate tBTC. This
   guide covers the resources and tools needed to integrate tBTC.
 date: 2020-04-01T17:04:10.000Z
 tags:
